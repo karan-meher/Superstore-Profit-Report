@@ -1,4 +1,4 @@
-# Superstore ProfitReport
+# Superstore Profit Report
 ![Dashboard](https://github.com/karan-meher/Superstore-Profit-Report/blob/master/Superstore%20profit%20Dashboard%20Screenshot.png)
 
 ## 👤 Author
